@@ -71,7 +71,7 @@ eSignDoc is a dynamic plugin built for Oracle APEX that allows users to create a
 
 ### ✅ Step 4: Add Supporting Items
 
-* Create a **new region** → Static ID: `item_region`
+* Create a **new region** → Static ID: `items_region`
 * Add 3 items:
 
   * `SIGNATURE_BLOB` → **Type**: Text Area, **Session State**: CLOB
