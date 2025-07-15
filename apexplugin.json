@@ -26,7 +26,7 @@
       "plugin": {
         "internalName": "ESIGNDOC_SIGNATURE_ON_DOCUMENT",
         "type": "Template Component",
-        "demo": "https://apex.oracle.com/pls/apex/r/aishwarya_dev/plugins/home?session=3956620099864",
+        "demo": "https://apex.oracle.com/pls/apex/r/mishab_demo_dev/e-sign-demo-app/esigndoc-signature-on-document",
         "previewImage": "https://raw.githubusercontent.com/mishab424/eSignDoc-Signature-On-document/refs/heads/main/demo/demo%20gif.gif"
       }
     }
