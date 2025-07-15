@@ -1,11 +1,11 @@
 {
-  "name": "eSignDoc - Signature On document",
+  "name": "eSignDoc-Signature-On-document",
   "version": "1.0.0",
   "description": "eSignDoc is a dynamic plugin built for Oracle APEX that allows users to create and store e-signatures, place them on uploaded PDF/image documents, and download the signed output. The plugin supports multiple input modes and is ideal for digital approvals and document workflows.",
   "keywords": ["apex-plugin", "signature", "e-signature", "e-sign", "digital-signature", "pdf-signature", "apex-pdf-sign","drag-drop-signature","Document Sign"],
-  "homepage": "https://github.com/mishab424/eSignDoc",
+  "homepage": "https://github.com/mishab424/eSignDoc-Signature-On-document",
   "bugs": {
-    "url": "https://github.com/mishab424/eSignDoc/issues",
+    "url": "https://github.com/mishab424/eSignDoc-Signature-On-document/issues",
     "email": "mishabpoomala424@gmail.com"
   },
   "license": "MIT",
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mishab424/eSignDoc.git"
+    "url": "https://github.com/mishab424/eSignDoc-Signature-On-document.git"
   },
   "oracle": {
     "versions": ["12.2.0.1", "18c", "19c", "21c"],
     "apex": {
       "versions": ["24.2"],
       "plugin": {
-        "internalName": "ASSENTA,ISHAB.ESIGNDOC",
+        "internalName": "ESIGNDOC_SIGNATURE_ON_DOCUMENT",
         "type": "Template Component",
         "demo": "https://apex.oracle.com/pls/apex/r/aishwarya_dev/plugins/home?session=3956620099864",
-        "previewImage": "https://raw.githubusercontent.com/mishab424/eSignDoc/refs/heads/main/demo/demo%20gif.gif"
+        "previewImage": "https://raw.githubusercontent.com/mishab424/eSignDoc-Signature-On-document/refs/heads/main/demo/demo%20gif.gif"
       }
     }
   }
