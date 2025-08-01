@@ -134,8 +134,11 @@ CREATE TABLE SIGNED_DOCS (
 Feel free to submit issues, contribute features, or fork from GitHub.
 
 ## **FOR  THE SOURCE CODE**
-_**contact me on whatsapp :+919745795598
-linkedin :-  https://www.linkedin.com/in/muhammed-mishab-pp-** _
+**contact me on whatsapp :+919745795598**
+
+**linkedin :-  https://www.linkedin.com/in/muhammed-mishab-pp-** 
+
+**email : mishabpoomala424@gmail.com**
 
 
 
